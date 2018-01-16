@@ -7,7 +7,7 @@ Code         | Name                |  Price
 -------------------------------------------------
 VOUCHER      | Cabify Voucher      |   5.00€
 TSHIRT       | Cabify T-Shirt      |  20.00€
-MUG          | Cafify Coffee Mug   |   7.50€
+MUG          | Cabify Coffee Mug   |   7.50€
 ```
 
 Various departments have insisted on the following discounts:
